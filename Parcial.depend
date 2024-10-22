@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1589580276 source:c:\users\grabi\desktop\parcial lab\main.c\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+	<string.h>
+
+1589580276 c:\users\grabi\desktop\parcial lab\main.c\inputs.h
+
+1589590346 source:c:\users\grabi\desktop\parcial lab\main.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+	"autos.h"
+	"servicios.h"
+	"marcas.h"
+	"colores.h"
+	"trabajos.h"
+
+1589587673 source:c:\users\grabi\desktop\parcial lab\main.c\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"autos.h"
+	"colores.h"
+	"marcas.h"
+
+1589587673 c:\users\grabi\desktop\parcial lab\main.c\autos.h
+	"colores.h"
+	"marcas.h"
+
+1589582228 source:c:\users\grabi\desktop\parcial lab\main.c\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	"servicios.h"
+
+1589582228 c:\users\grabi\desktop\parcial lab\main.c\servicios.h
+
+1589586221 source:c:\users\grabi\desktop\parcial lab\main.c\marcas.c
+	<stdio.h>
+	<stdlib.h>
+	"marcas.h"
+
+1589582329 c:\users\grabi\desktop\parcial lab\main.c\marcas.h
+
+1589582428 source:c:\users\grabi\desktop\parcial lab\main.c\colores.c
+	<stdio.h>
+	<stdlib.h>
+	"colores.h"
+
+1589582428 c:\users\grabi\desktop\parcial lab\main.c\colores.h
+
+1589582548 source:c:\users\grabi\desktop\parcial lab\main.c\fechas.c
+
+1589590326 source:c:\users\grabi\desktop\parcial lab\main.c\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"autos.h"
+	"colores.h"
+	"marcas.h"
+	"fechas.h"
+	"trabajos.h"
+
+1589589893 c:\users\grabi\desktop\parcial lab\main.c\trabajos.h
+	"fechas.h"
+	"servicios.h"
+
+1589588169 c:\users\grabi\desktop\parcial lab\main.c\fechas.h
+
